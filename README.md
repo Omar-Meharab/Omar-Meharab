@@ -2,7 +2,7 @@
 
 This is **Omar Meharab** Here. I am a **React Developer**. Trying to improve myself daily because adpting is surviving in this competitve world!
 
-Some Key point about me:
+Some Key points about me:
 
 - 🔭 I’m currently working on improving my skills in web development
 - 🌱 I’m currently learning to solve JavaScript problems.
