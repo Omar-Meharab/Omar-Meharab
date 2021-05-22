@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Omar-Meharab/Omar-Meharab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Omar Meharab** Here. I am a **React Developer**. Trying to improve myself daily because adpting is surviving in this competitve world!
 
-Here are some ideas to get you started:
+Some Key point about me:
 
 - 🔭 I’m currently working on improving my skills in web development
 - 🌱 I’m currently learning to solve JavaScript problems.
