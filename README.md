@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is **Omar Meharab** Here. I am a **React Developer**. Trying to improve myself daily because adpting is surviving in this competitve world!
+This is **Omar Meharab** Here. I am a **React Developer**. Trying to improve myself daily because adapting is surviving in this competitve world!
 
 Some Key points about me:
 
