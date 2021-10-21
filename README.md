@@ -13,12 +13,12 @@ Some Key points about me:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omar-Meharab&row=3&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Omar-Meharab"></a></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Omar-Meharab&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omar-Meharab&layout=compact&theme=onedark" />
-</a>
+</a> -->
 <br />
 <br />
 <p align="center">
